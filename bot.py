@@ -8,7 +8,7 @@ import time
 # =========================
 # CONFIG
 # =========================
-BOT_TOKEN = "8115455351:AAGFgcMirYUIqC5l_YKyuEFcOmI6A-wUIIA"
+BOT_TOKEN = "8115455351:AAGiq2ulIPw_F8FGQO5hQc0w-Lu82naU5cs"
 OWNER_ID = 1841699773   # your Telegram numeric ID
 NORMAL_PRICE_PER_CODE = 190
 BULK_PRICE_PER_CODE = 150
