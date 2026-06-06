@@ -1,0 +1,335 @@
+{
+  "ORD-B1D0351E": {
+    "user_id": 7156255997,
+    "username": "Grandlotter",
+    "first_name": "\u5927\u5f69\u7968",
+    "qty": 5,
+    "amount": 950,
+    "status": "completed",
+    "created_at": 1777198937,
+    "codes_sent": [
+      "SVICPPOL0NI7YTD",
+      "SVICR0M3OTVYJPC",
+      "SVI6B45S02LWTHW",
+      "SVIQ4D5ZM4T9N7J",
+      "SVID12ZXGNMTV25"
+    ]
+  },
+  "ORD-C3A29A3B": {
+    "user_id": 7156255997,
+    "username": "Grandlotter",
+    "first_name": "\u5927\u5f69\u7968",
+    "qty": 5,
+    "amount": 950,
+    "status": "completed",
+    "created_at": 1777199059,
+    "codes_sent": [
+      "SVAGZGIID3H1M8Q",
+      "SVABF9KI226DGQA",
+      "SVABF9KI226DGQA",
+      "SVAFYGEK7K3FBD9",
+      "SVAIOSA1VY3K8I3"
+    ]
+  },
+  "ORD-82B74CEA": {
+    "user_id": 7156255997,
+    "username": "Grandlotter",
+    "first_name": "\u5927\u5f69\u7968",
+    "qty": 9,
+    "amount": 1710,
+    "status": "awaiting_payment",
+    "created_at": 1777199273
+  },
+  "ORD-C82117DF": {
+    "user_id": 7156255997,
+    "username": "Grandlotter",
+    "first_name": "\u5927\u5f69\u7968",
+    "qty": 2,
+    "amount": 380,
+    "status": "awaiting_payment",
+    "created_at": 1777199613
+  },
+  "ORD-63DDCF66": {
+    "user_id": 7156255997,
+    "username": "Grandlotter",
+    "first_name": "\u5927\u5f69\u7968",
+    "qty": 5,
+    "price_per_code": 190,
+    "amount": 950,
+    "status": "rejected",
+    "created_at": 1777202417
+  },
+  "ORD-3726C98A": {
+    "user_id": 7852052888,
+    "username": "Kratisoni23",
+    "first_name": "Krati Soni",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1777202571
+  },
+  "ORD-3E5D5C37": {
+    "user_id": 7156255997,
+    "username": "Grandlotter",
+    "first_name": "\u5927\u5f69\u7968",
+    "qty": 5,
+    "price_per_code": 190,
+    "amount": 950,
+    "status": "awaiting_payment",
+    "created_at": 1777202578
+  },
+  "ORD-CF3BECFB": {
+    "user_id": 7156255997,
+    "username": "Grandlotter",
+    "first_name": "\u5927\u5f69\u7968",
+    "qty": 10,
+    "price_per_code": 150,
+    "amount": 1500,
+    "status": "awaiting_payment",
+    "created_at": 1777202590
+  },
+  "ORD-46686F08": {
+    "user_id": 7852052888,
+    "username": "Kratisoni23",
+    "first_name": "Krati Soni",
+    "qty": 5,
+    "price_per_code": 190,
+    "amount": 950,
+    "status": "awaiting_payment",
+    "created_at": 1777202598
+  },
+  "ORD-E7A5E6DA": {
+    "user_id": 6198592444,
+    "username": "no_username",
+    "first_name": "\u535a\u58eb\u751f",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "completed",
+    "created_at": 1777253240,
+    "codes_sent": [
+      "SVA1BPCOXVAW22A"
+    ]
+  },
+  "ORD-4BBCF3E7": {
+    "user_id": 7510254226,
+    "username": "Hellstar21",
+    "first_name": "Hellstar",
+    "qty": 5,
+    "price_per_code": 190,
+    "amount": 950,
+    "status": "payment_sent",
+    "created_at": 1777257248
+  },
+  "ORD-A719B5F2": {
+    "user_id": 7894831542,
+    "username": "no_username",
+    "first_name": "Addicted",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329274
+  },
+  "ORD-C24B6348": {
+    "user_id": 8742232752,
+    "username": "Slayqueen_999",
+    "first_name": "\ud835\ude0b\ud835\ude2a\ud835\ude37\ud835\ude22\ud80c\udf7c",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329346
+  },
+  "ORD-9B1D8F09": {
+    "user_id": 1661554857,
+    "username": "Radhakrishna1225",
+    "first_name": "Paru",
+    "qty": 2,
+    "price_per_code": 190,
+    "amount": 380,
+    "status": "completed",
+    "created_at": 1778329367,
+    "codes_sent": [
+      "SVASJ5EZ6I52ET4",
+      "SVAZWZASSG7QYUG"
+    ]
+  },
+  "ORD-A17D07F2": {
+    "user_id": 8742232752,
+    "username": "Slayqueen_999",
+    "first_name": "\ud835\ude0b\ud835\ude2a\ud835\ude37\ud835\ude22\ud80c\udf7c",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "completed",
+    "created_at": 1778329470,
+    "codes_sent": [
+      "SVA4EYYT2XADE2W"
+    ]
+  },
+  "ORD-7B6EABE1": {
+    "user_id": 5939086160,
+    "username": "no_username",
+    "first_name": "Pranay",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329523
+  },
+  "ORD-A39373A6": {
+    "user_id": 659234794,
+    "username": "no_username",
+    "first_name": "Ruxx",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329524
+  },
+  "ORD-D51EB5F1": {
+    "user_id": 5939086160,
+    "username": "no_username",
+    "first_name": "Pranay",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329526
+  },
+  "ORD-7EB030B1": {
+    "user_id": 1950770395,
+    "username": "Mrpulkitgupta",
+    "first_name": "Pulkit",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329526
+  },
+  "ORD-08EE8B8F": {
+    "user_id": 5939086160,
+    "username": "no_username",
+    "first_name": "Pranay",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329528
+  },
+  "ORD-EAA38817": {
+    "user_id": 5939086160,
+    "username": "no_username",
+    "first_name": "Pranay",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329530
+  },
+  "ORD-7658193A": {
+    "user_id": 5939086160,
+    "username": "no_username",
+    "first_name": "Pranay",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329532
+  },
+  "ORD-33F67470": {
+    "user_id": 5939086160,
+    "username": "no_username",
+    "first_name": "Pranay",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329535
+  },
+  "ORD-CA864B20": {
+    "user_id": 5939086160,
+    "username": "no_username",
+    "first_name": "Pranay",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329537
+  },
+  "ORD-458660B3": {
+    "user_id": 5939086160,
+    "username": "no_username",
+    "first_name": "Pranay",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329539
+  },
+  "ORD-9E16B51D": {
+    "user_id": 5939086160,
+    "username": "no_username",
+    "first_name": "Pranay",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329540
+  },
+  "ORD-3FF60C84": {
+    "user_id": 5939086160,
+    "username": "no_username",
+    "first_name": "Pranay",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329541
+  },
+  "ORD-B590B47E": {
+    "user_id": 5939086160,
+    "username": "no_username",
+    "first_name": "Pranay",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329544
+  },
+  "ORD-5973968A": {
+    "user_id": 5939086160,
+    "username": "no_username",
+    "first_name": "Pranay",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778329546
+  },
+  "ORD-CE85C01D": {
+    "user_id": 8789107035,
+    "username": "aloklootoffer",
+    "first_name": "Alok",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "completed",
+    "created_at": 1778329867,
+    "codes_sent": [
+      "SVATGQJFKWE6TY6"
+    ]
+  },
+  "ORD-44973F17": {
+    "user_id": 6574000494,
+    "username": "HeyVenomBro",
+    "first_name": "Venom",
+    "qty": 1,
+    "price_per_code": 190,
+    "amount": 190,
+    "status": "awaiting_payment",
+    "created_at": 1778330116
+  }
+}
